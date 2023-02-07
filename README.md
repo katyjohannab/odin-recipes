@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes This is a project for practising basic HTML and CSS
